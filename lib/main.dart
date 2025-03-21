@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:projetomobile/lib/splash.dart'; 
+import 'package:projetomobile/splash.dart'; 
 
 void main() => runApp(MyApp());
 
