@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
-import 'package:projetomobile/screens/home/home.dart';
+import 'package:projetomobile/screens/splash.dart'; 
 
 void main() => runApp(MyApp());
 
-class MyApp extends StatelessWidget { 
+class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Home(),
+      home: Splash(),
     );
   }
 }

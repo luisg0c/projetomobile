@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:projetomobile/screens/auth/forgot_password.dart';
 import 'package:projetomobile/screens/auth/register.dart';
-import 'package:projetomobile/screens/home/home.dart';
+import 'package:projetomobile/screens/home.dart';
 import 'package:projetomobile/widgets/widgets.dart';
 import 'package:projetomobile/widgets/widgets_auth.dart';
 

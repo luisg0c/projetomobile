@@ -1,5 +1,5 @@
 import 'package:projetomobile/screens/auth/login.dart';
-import 'package:projetomobile/screens/home/home.dart';
+import 'package:projetomobile/screens/home.dart';
 import 'package:projetomobile/widgets/widgets.dart';
 import 'package:flutter/material.dart';
 
